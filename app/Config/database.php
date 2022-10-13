@@ -64,7 +64,7 @@ class DATABASE_CONFIG {
 		'persistent' => false,
 		'host' => 'localhost', //ex. localhost
 		'login' => 'root', //root
-		'password' => '0r@ngeScrum', //0r@ngescrum
+		'password' => '0r@ng3Scrum', //0r@ngescrum
 		'database' => 'orangescrum',//orangescrum
 		'prefix' => '',
 		//'encoding' => 'utf8',
