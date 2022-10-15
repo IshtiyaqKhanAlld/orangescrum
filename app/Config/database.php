@@ -59,6 +59,7 @@
  */
 class DATABASE_CONFIG {
 
+	// DB Config
 	public $default = array(
 		'datasource' => 'Database/Mysql',
 		'persistent' => false,
