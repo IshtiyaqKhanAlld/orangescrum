@@ -75,7 +75,8 @@ if($_SERVER['SERVER_NAME'] == 'localhost'){
 define("SMTP_HOST", "smtp.sendgrid.net");
 define("SMTP_PORT", "587");
 define("SMTP_UNAME", "apikey");
-define("SMTP_PWORD", "your_password");
+define("SMTP_PWORD", "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
+");
 define("SMTP_APIKEY", "");
 
 define("IS_SMTP", 0);
