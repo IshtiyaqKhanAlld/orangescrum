@@ -79,7 +79,7 @@ define("SMTP_PWORD", "SG.n-1YHk0lSbG8hyFMsjpYYw.5vM0HmhKjEBPM5N8hzEE9Z5IWlTTYR70
 ");
 define("SMTP_APIKEY", "");
 
-define("IS_SMTP", 0);
+define("IS_SMTP", 1);
 define("IS_EML_VERIFY", 0);
 define("IS_OTHERS", 1);
 //https://sendgrid.com/user/signup (free signup to sendgrid)
